@@ -1,0 +1,7 @@
+1 - É um sistema que permite o controle sobre arquivos, o github é um serviço web que possibilita o manuseamento de arquivos e códigos no programa.
+
+2 - Ao realizar o comando, foi adicionado uma na lista de repositorio o novo criado, no caso, "Repositorio", foi dado um clone para poder ser modificado.
+
+3 - É um "ramo", como uma cópia do arquivo original para poder fazer modificações no código, ou seja, no novo branch. Para não ocorrer modificações erradas no código original, o branch vai servir como uma área de teste. Foi enviado para o 'Master'. Entraria em outro branch, e salvaria neste, caso não tivesse, seria criado um novo branch.
+
+4 - É exibido as diferenças entre os arquivos do branch 'Master' e 'Novo_branch'. Tais diferenças aparecem em lista, com o nome dos arquivos divergentes em cada branch.

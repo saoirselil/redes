@@ -1,0 +1,8 @@
+Questão 01 - O GitHub é uma plataforma para hospedar códigos, com opções para gerenciamento destes, podendo compartilhar esses códigos com diversas pessoas, que podem colaborar para melhoria do código.
+
+Questão 02 - Consegui acessar a pasta (redes) que escolhi vendo a lista de arquivos, usando ls, dentro desta, consegui criar um arquivo (arquivo-teste.txt) e vi diversas possibilidades de mexer neste arquivo. Após, adicionei o arquivo para meu repositório no github e enviei uma mensagem de modificação do arquivo. 
+
+Questão 03 - O branch, no github, é uma forma de trabalhar com um projeto de diferentes formas ao mesmo tempo sem modificar o original, criando ramificações deste projeto.
+	Enviei os arquivos para o branch master. Para enviar para um novo branch, mudaria o branch de destino para o novo escolhido com git checkout (nome do branch), enviaria os arquivos da mesma forma que enviou no branch master, exceto no comando git push origin (nome do branch), pois teria que colocar o nome do brach que está.
+
+Questão 04 - O github tem a opção "Compare", no qual, pode comparar um branch com o outro, ou utilizar o código no terminal git diff (nome branch) (nome branch). Neste caso, ao comparar o banch master com outro, aparece as diferenças feitas com esse novo branch do branch master, de arquivo adicionado, deletado, etc.

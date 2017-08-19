@@ -1,0 +1,10 @@
+Aluna: Jéssica Andrade de Carvalho 
+TI: 441
+
+1) Git é uma ferramenta/sitema de controle de versão desenvolvido por Linus Torvalds, atraves do git é possível trabalhar com diretorios fazendo alterações no projeto, não necessariamente em seu codigo principal (master) .O Github é como se fosse uma “rede social” importante para promover a interação de codigos e outros arquivos entre desenvolvedores do mundo todo.
+
+2) Ao criar arquivo no terminal e envia-lo para internet (site do Github) , é possível visualiza-lo no diretorio na web. As alterações feitas utilizando o comando “nano nomedoarquivo” ou até mesmo criando um novo arquivo também podem ser vistas após submetido (commit).
+
+3) Branch = ramos. São copias do codigo original onde é possível fazer alterações sem alterar no codigo principal (master). O arquivo “teste.txt” foi enviado para para o branch “exemplo”, se eu quisesse envia-lo para o branch “exemplo2” eu teria alternado o  branch atraves do comando “git Checkout” e utilizaria “git add exemplo2”.
+
+4) É informado as alterações feitas comparando os 2 arquivos utilizando o Gif utilizando o comando “git diff” no terminal. A quantidade de linhas adicionadas e modificadas. É possível compar também as mudanças no navegador após o commit. Exemplo: “Showing with 82 additions and 0 deletions. “.

@@ -1,0 +1,19 @@
+- Questão 1. 
+Git é o programa/aplicativo que nos permite acessar o GitHub através do terminal. E GitHub é a plataforma online de desenvolvimento do projeto.
+
+- Questão 2. 
+Ao listar os diretório, podemos notar que um novo diretório, com o nome do repositório que baixamos, foi criado.
+
+- Questão 3. 
+Branch é uma copia de todos seus arquivos, em que você pode fazer alterações sem modificar o projeto original. 
+
+Utilizamos branches quando não queremos ou podemos alterar os arquivos originais, ou quando um colaborar quer modificar algo.
+
+Enviei meu arquivo para o branch 2017-i441.
+
+Para enviar arquivos para um outro branch, é só especifica-lo desse modo: git push origin NOME DO OUTRO BRANCH
+
+-Questão 4.
+O git me mostra quais arquivos estão diferentes e quais são as diferenças entre eles.
+
+
